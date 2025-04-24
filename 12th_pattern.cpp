@@ -2,6 +2,7 @@
 //   121
 //  12321
 // 1234321
+
 #include<iostream>
 using namespace std;
 int main(){
