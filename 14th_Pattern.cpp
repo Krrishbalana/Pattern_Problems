@@ -23,6 +23,7 @@ int main() {
         cout << endl;
     }
 
+    
     // Lower half of the butterfly
     for (int i = n; i >= 1; i--) {
         // Left wing
